@@ -1,2 +1,3 @@
 #!/bin/bash
 echo 'No Tests'
+exit 1
